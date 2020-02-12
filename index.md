@@ -5,45 +5,73 @@ rel="stylesheet" href="style.css" type="text/css" />
 <script type="text/javascript" src="mootools.js"></script>
 <script type="text/javascript" src="script.js"></script>
 
-<title>Home</title>
+<!-- Page Title --> <title>Home</title>
 
 </head>
 <body>
-<div id="one">
-<div id="menu">
-<div class="number">01</div>
-<div class="title">Daily</div>
-<a id="link" href="http://reddit.com">Reddit</a><br />
+	<div id="one">
+		<div id="menu">
+<!-- Number of First Block -->
+			<div class="number">01</div>
+<!-- Title of First Block -->
+			<div class="title">Daily</div>
+<!-- Links in First Block -->
+			<a id="link" href="http://reddit.com">Reddit</a><br />
 
-<div class="number">02</div>
-<div class="title">AndAlot</div>
-<a id="link" href="http://andalot.x10host.com/">Wordpress Blog</a><br />
-<a id="link" href="http://andalot.x10host.com/reu/">REU</a><br />
-<a id="link" href="http://andalot.x10host.com/theherd/">Danger!Manatees</a><br />
-<a id="link" href="http://andalot.x10host.com/eupwindsurfing">EUP Windsurfing</a><br />
-			
-<div class="number">03</div>
-<div class="title">Music</div>
-<a id="link" href="http://noonpacific.com/#/">Noon Pacific</a><br />
-<a id="link" href="http://radd.it/music">Radd.it</a><br />
-<a id="link" href="http://reddit.musicplayer.io/">MusicPlayer-Reddit</a><br />
-<a id="link" href="http://www.npr.org/series/98679384/first-listen">NPR: First Listen</a><br />
-<a id="link" href="http://musicforprogramming.net/">Music for Programming</a><br />
-<a id="link" href="https://musicmp3.ru/new_albums.html">MusicMp3.ru</a><br />
-<a id="link" href="https://play.spotify.com/browse">Spotify</a><br />
-<a id="link" href="https://play.google.com/music/listen?u=0#/home">Google Play Music</a><br />
-<a id="link" href="https://www.mixcloud.com">Mixcloud</a><br />
-<a id="link" href="http://radiooooo.com/">Radiooooo</a><br />
-<a id="link" href="http://www.rainymood.com/">Rainy Mood</a><br />
+		</div>
+	</div>
+
+	<div id="two">
+		<div id="menut">
+<!-- Number of Second Block -->
+			<div class="number">02</div>
+<!-- Title of Second Block -->
+			<div class="title">AndAlot</div>
+<!-- Links in Second Block -->
+				<a id="link" href="http://andalot.x10host.com/">Wordpress Blog</a><br />
+			<a id="link" href="http://andalot.x10host.com/reu/">REU</a><br />
+			<a id="link" href="http://andalot.x10host.com/theherd/">Danger!Manatees</a><br />
+			<a id="link" href="http://andalot.x10host.com/eupwindsurfing">EUP Windsurfing</a><br />
+
+
+		</div>
+	</div>
+
+	<div id="three">
+		<div id="menuth">
+<!-- Number of Third Block -->
+			<div class="number">03</div>
+<!-- Title of Third Block -->
+			<div class="title">Music</div>
+<!-- Links in Third Block -->
+			<a id="link" href="http://noonpacific.com/#/">Noon Pacific</a><br />
+			<a id="link" href="http://radd.it/music">Radd.it</a><br />
+			<a id="link" href="http://reddit.musicplayer.io/">MusicPlayer-Reddit</a><br />
+			<a id="link" href="http://www.npr.org/series/98679384/first-listen">NPR: First Listen</a><br />
+			<a id="link" href="http://musicforprogramming.net/">Music for Programming</a><br />
+			<a id="link" href="https://musicmp3.ru/new_albums.html">MusicMp3.ru</a><br />
+			<a id="link" href="https://play.spotify.com/browse">Spotify</a><br />
+			<a id="link" href="https://play.google.com/music/listen?u=0#/home">Google Play Music</a><br />
+			<a id="link" href="https://www.mixcloud.com">Mixcloud</a><br />
+			<a id="link" href="http://radiooooo.com/">Radiooooo</a><br />
+			<a id="link" href="http://www.rainymood.com/">Rainy Mood</a><br />
 			
 
-<div class="number">04</div>
-<div class="title">Weather</div>
-<a id="link" href="http://forecast.weather.gov/MapClick.php?CityName=Pickford&state=MI&site=APX&lat=46.164&lon=-84.364#.U6GSy5RdUuc">NWS - Pickford</a><br />
-<a id="link" href="https://www.wunderground.com/cgi-bin/findweather/hdfForecast?query=hessel%2C+mi">WUG - Hessel</a><br />
-<a id="link" href="http://johndee.com/forecasts/forecast-graphic/">JohnDee Graphic</a><br />
-<a id="link" href="http://www.sailflow.com/en-us/Search/ViewResults.aspx#46.032,-84.755,10,1">Sailflow</a><br />
-<a id="link" href="https://www.windytv.com/?41.681,-89.626,6">WindyTV</a><br />
+		</div>
+	</div>
+
+	<div id="four">
+		<div id="menuf">
+<!-- Number of Fourth Block -->
+			<div class="number">04</div>
+<!-- Title of Fourth Block -->
+			<div class="title">Weather</div>
+<!-- Links in Fourth Block -->
+			<a id="link" href="http://forecast.weather.gov/MapClick.php?CityName=Pickford&state=MI&site=APX&lat=46.164&lon=-84.364#.U6GSy5RdUuc">NWS - Pickford</a><br />
+			<a id="link" href="https://www.wunderground.com/cgi-bin/findweather/hdfForecast?query=hessel%2C+mi">WUG - Hessel</a><br />
+			<a id="link" href="http://johndee.com/forecasts/forecast-graphic/">JohnDee Graphic</a><br />
+			<a id="link" href="http://www.sailflow.com/en-us/Search/ViewResults.aspx#46.032,-84.755,10,1">Sailflow</a><br />
+			<a id="link" href="https://www.windytv.com/?41.681,-89.626,6">WindyTV</a><br />
 	
 </div>
 	</div>	
