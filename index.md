@@ -9,37 +9,18 @@ rel="stylesheet" href="style.css" type="text/css" />
 
 </head>
 <body>
-	<div id="one">
-		<div id="menu">
-<!-- Number of First Block -->
-			<div class="number">01</div>
-<!-- Title of First Block -->
-			<div class="title">Daily</div>
-<!-- Links in First Block -->
-			<a id="link" href="http://reddit.com">Reddit</a><br />
+<div id="one">
+<div id="menu">
+<div class="number">01</div>
+<div class="title">Daily</div>
+<a id="link" href="http://reddit.com">Reddit</a><br />
 
-		</div>
-	</div>
-
-	<div id="two">
-		<div id="menut">
-<!-- Number of Second Block -->
-			<div class="number">02</div>
-<!-- Title of Second Block -->
-			<div class="title">AndAlot</div>
-<!-- Links in Second Block -->
-				<a id="link" href="http://andalot.x10host.com/">Wordpress Blog</a><br />
-			<a id="link" href="http://andalot.x10host.com/reu/">REU</a><br />
-			<a id="link" href="http://andalot.x10host.com/theherd/">Danger!Manatees</a><br />
-			<a id="link" href="http://andalot.x10host.com/eupwindsurfing">EUP Windsurfing</a><br />
-
-
-		</div>
-	</div>
-
-	<div id="three">
-		<div id="menuth">
-<!-- Number of Third Block -->
+<div class="number">02</div>
+<div class="title">AndAlot</div>
+<a id="link" href="http://andalot.x10host.com/">Wordpress Blog</a><br />
+<a id="link" href="http://andalot.x10host.com/reu/">REU</a><br />
+<a id="link" href="http://andalot.x10host.com/theherd/">Danger!Manatees</a><br />
+<a id="link" href="http://andalot.x10host.com/eupwindsurfing">EUP Windsurfing</a><br />
 			<div class="number">03</div>
 <!-- Title of Third Block -->
 			<div class="title">Music</div>
