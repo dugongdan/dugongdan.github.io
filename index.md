@@ -5,7 +5,7 @@ rel="stylesheet" href="style.css" type="text/css" />
 <script type="text/javascript" src="mootools.js"></script>
 <script type="text/javascript" src="script.js"></script>
 
-<!-- Page Title --> <title>Home</title>
+<title>Home</title>
 
 </head>
 <body>
@@ -24,17 +24,17 @@ rel="stylesheet" href="style.css" type="text/css" />
 			
 <div class="number">03</div>
 <div class="title">Music</div>
-			<a id="link" href="http://noonpacific.com/#/">Noon Pacific</a><br />
-			<a id="link" href="http://radd.it/music">Radd.it</a><br />
-			<a id="link" href="http://reddit.musicplayer.io/">MusicPlayer-Reddit</a><br />
-			<a id="link" href="http://www.npr.org/series/98679384/first-listen">NPR: First Listen</a><br />
-			<a id="link" href="http://musicforprogramming.net/">Music for Programming</a><br />
-			<a id="link" href="https://musicmp3.ru/new_albums.html">MusicMp3.ru</a><br />
-			<a id="link" href="https://play.spotify.com/browse">Spotify</a><br />
-			<a id="link" href="https://play.google.com/music/listen?u=0#/home">Google Play Music</a><br />
-			<a id="link" href="https://www.mixcloud.com">Mixcloud</a><br />
-			<a id="link" href="http://radiooooo.com/">Radiooooo</a><br />
-			<a id="link" href="http://www.rainymood.com/">Rainy Mood</a><br />
+<a id="link" href="http://noonpacific.com/#/">Noon Pacific</a><br />
+<a id="link" href="http://radd.it/music">Radd.it</a><br />
+<a id="link" href="http://reddit.musicplayer.io/">MusicPlayer-Reddit</a><br />
+<a id="link" href="http://www.npr.org/series/98679384/first-listen">NPR: First Listen</a><br />
+<a id="link" href="http://musicforprogramming.net/">Music for Programming</a><br />
+<a id="link" href="https://musicmp3.ru/new_albums.html">MusicMp3.ru</a><br />
+<a id="link" href="https://play.spotify.com/browse">Spotify</a><br />
+<a id="link" href="https://play.google.com/music/listen?u=0#/home">Google Play Music</a><br />
+<a id="link" href="https://www.mixcloud.com">Mixcloud</a><br />
+<a id="link" href="http://radiooooo.com/">Radiooooo</a><br />
+<a id="link" href="http://www.rainymood.com/">Rainy Mood</a><br />
 			
 
 <div class="number">04</div>
