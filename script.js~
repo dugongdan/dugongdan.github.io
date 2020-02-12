@@ -1,0 +1,87 @@
+window.addEvent('domready', function(){
+	//First Example
+	var el = $$('a'),
+		color = el.getStyle('backgroundColor');
+	
+	// We are setting the opacity of the element to 0.5 and adding two events
+	$$('a').addEvents({
+		mouseenter: function(){
+			// This morphes the opacity and backgroundColor
+			this.morph({
+				'padding-left': '5px'
+			});
+		},
+		mouseleave: function(){
+			// Morphes back to the original style
+			this.morph({
+				'padding-left': '0px'
+			});
+		}
+	});
+
+	// Second Example
+	
+	// The same as before: adding events
+	$('menu').addEvents({
+		'mouseenter': function(){
+			// Always sets the duration of the tween to 1000 ms and a bouncing transition
+			// And then tweens the height of the element
+			this.set('tween', {
+				duration: 1000,
+				transition: Fx.Transitions.Bounce.easeOut // This could have been also 'bounce:out'
+			}).tween('height', '300px');
+		},
+		'mouseleave': function(){
+			// Resets the tween and changes the element back to its original size
+			this.set('tween', {}).tween('height', '80px');
+		}
+	});
+
+	// The same as before: adding events
+	$('menut').addEvents({
+		'mouseenter': function(){
+			// Always sets the duration of the tween to 1000 ms and a bouncing transition
+			// And then tweens the height of the element
+			this.set('tween', {
+				duration: 1000,
+				transition: Fx.Transitions.Bounce.easeOut // This could have been also 'bounce:out'
+			}).tween('height', '300px');
+		},
+		'mouseleave': function(){
+			// Resets the tween and changes the element back to its original size
+			this.set('tween', {}).tween('height', '80px');
+		}
+	});
+
+	// The same as before: adding events
+	$('menuth').addEvents({
+		'mouseenter': function(){
+			// Always sets the duration of the tween to 1000 ms and a bouncing transition
+			// And then tweens the height of the element
+			this.set('tween', {
+				duration: 1000,
+				transition: Fx.Transitions.Bounce.easeOut // This could have been also 'bounce:out'
+			}).tween('height', '300px');
+		},
+		'mouseleave': function(){
+			// Resets the tween and changes the element back to its original size
+			this.set('tween', {}).tween('height', '80px');
+		}
+	});
+
+	// The same as before: adding events
+	$('menuf').addEvents({
+		'mouseenter': function(){
+			// Always sets the duration of the tween to 1000 ms and a bouncing transition
+			// And then tweens the height of the element
+			this.set('tween', {
+				duration: 1000,
+				transition: Fx.Transitions.Bounce.easeOut // This could have been also 'bounce:out'
+			}).tween('height', '300px');
+		},
+		'mouseleave': function(){
+			// Resets the tween and changes the element back to its original size
+			this.set('tween', {}).tween('height', '80px');
+		}
+	});
+});
