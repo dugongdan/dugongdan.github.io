@@ -21,10 +21,9 @@ rel="stylesheet" href="style.css" type="text/css" />
 <a id="link" href="http://andalot.x10host.com/reu/">REU</a><br />
 <a id="link" href="http://andalot.x10host.com/theherd/">Danger!Manatees</a><br />
 <a id="link" href="http://andalot.x10host.com/eupwindsurfing">EUP Windsurfing</a><br />
-			<div class="number">03</div>
-<!-- Title of Third Block -->
-			<div class="title">Music</div>
-<!-- Links in Third Block -->
+			
+<div class="number">03</div>
+<div class="title">Music</div>
 			<a id="link" href="http://noonpacific.com/#/">Noon Pacific</a><br />
 			<a id="link" href="http://radd.it/music">Radd.it</a><br />
 			<a id="link" href="http://reddit.musicplayer.io/">MusicPlayer-Reddit</a><br />
@@ -38,21 +37,13 @@ rel="stylesheet" href="style.css" type="text/css" />
 			<a id="link" href="http://www.rainymood.com/">Rainy Mood</a><br />
 			
 
-		</div>
-	</div>
-
-	<div id="four">
-		<div id="menuf">
-<!-- Number of Fourth Block -->
-			<div class="number">04</div>
-<!-- Title of Fourth Block -->
-			<div class="title">Weather</div>
-<!-- Links in Fourth Block -->
-			<a id="link" href="http://forecast.weather.gov/MapClick.php?CityName=Pickford&state=MI&site=APX&lat=46.164&lon=-84.364#.U6GSy5RdUuc">NWS - Pickford</a><br />
-			<a id="link" href="https://www.wunderground.com/cgi-bin/findweather/hdfForecast?query=hessel%2C+mi">WUG - Hessel</a><br />
-			<a id="link" href="http://johndee.com/forecasts/forecast-graphic/">JohnDee Graphic</a><br />
-			<a id="link" href="http://www.sailflow.com/en-us/Search/ViewResults.aspx#46.032,-84.755,10,1">Sailflow</a><br />
-			<a id="link" href="https://www.windytv.com/?41.681,-89.626,6">WindyTV</a><br />
+<div class="number">04</div>
+<div class="title">Weather</div>
+<a id="link" href="http://forecast.weather.gov/MapClick.php?CityName=Pickford&state=MI&site=APX&lat=46.164&lon=-84.364#.U6GSy5RdUuc">NWS - Pickford</a><br />
+<a id="link" href="https://www.wunderground.com/cgi-bin/findweather/hdfForecast?query=hessel%2C+mi">WUG - Hessel</a><br />
+<a id="link" href="http://johndee.com/forecasts/forecast-graphic/">JohnDee Graphic</a><br />
+<a id="link" href="http://www.sailflow.com/en-us/Search/ViewResults.aspx#46.032,-84.755,10,1">Sailflow</a><br />
+<a id="link" href="https://www.windytv.com/?41.681,-89.626,6">WindyTV</a><br />
 	
 </div>
 	</div>	
